@@ -11,6 +11,6 @@ After the end of the game, a list of all unnamed states is written to a separate
 How to use?
   -----------
   - Input state name;
-  - Write "exit" to finish the game,
+  - Write "exit" to finish the game.
 
 
